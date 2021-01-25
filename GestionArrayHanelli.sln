@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibreriaArray", "LibreriaArray\LibreriaArray.csproj", "{CAF3A9C6-9618-45C8-855E-533FD5A75C55}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InvocaArray", "InvocaArray\InvocaArray.csproj", "{7269CE68-3E8E-405E-9247-DC07814C17DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAF3A9C6-9618-45C8-855E-533FD5A75C55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAF3A9C6-9618-45C8-855E-533FD5A75C55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAF3A9C6-9618-45C8-855E-533FD5A75C55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAF3A9C6-9618-45C8-855E-533FD5A75C55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7269CE68-3E8E-405E-9247-DC07814C17DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7269CE68-3E8E-405E-9247-DC07814C17DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7269CE68-3E8E-405E-9247-DC07814C17DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7269CE68-3E8E-405E-9247-DC07814C17DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F9A7246C-E3D5-4FEB-B6BE-4A2E4D1A390D}
+	EndGlobalSection
+EndGlobal
